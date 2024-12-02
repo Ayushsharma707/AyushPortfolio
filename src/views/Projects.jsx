@@ -37,7 +37,7 @@ const projects = [
       "A personal portfolio website to showcase my skills, experience, projects, and contact information. Designed with a responsive layout to ensure compatibility across devices and optimized for performance.",
     technologies: ["React.js", "CSS", "HTML", "JavaScript"],
     liveLink: "#",
-    codeLink: "https://github.com/your-github-account/portfolio",
+    codeLink: "https://github.com/Ayushsharma707/AyushPortfolio",
   },
 
   {
