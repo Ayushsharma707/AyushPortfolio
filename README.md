@@ -1,6 +1,6 @@
 # AyushPortfolio
 
-**AyushPortfolio** is a personal portfolio website built with **React**, **CSS**, **HTML**, and **JavaScript**. This project showcases my skills, experience, and personal projects while providing an intuitive and responsive layout. The site features sections for my professional background, a showcase of past projects, and contact information.
+A personal portfolio website built with **React**, **CSS**, **HTML**, and **JavaScript** to showcases my skills, experience, and personal projects and contact information.
 
 ---
 
