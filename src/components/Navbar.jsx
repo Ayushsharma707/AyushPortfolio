@@ -218,7 +218,6 @@ const Navbar = () => {
             <ul className="md:hidden md:flex-row md:space-y-8 md:mt-0 md:text-md md:font-medium">
               {links.map((el) => (
                 <Link
-                  key={el + 1}
                   to={el.route}
                   activeClass={"text-white bg-blue-500"}
                   className={

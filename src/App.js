@@ -7,7 +7,7 @@ import Contact from "./views/Contact";
 import Home from "./views/Home";
 import LoadingScreen from "./components/LoadingScreen";
 import { ThemeProvider } from "./themeProvider";
-
+import "./index.css"
 function App() {
   const [loading, setLoading] = useState(true);
 
