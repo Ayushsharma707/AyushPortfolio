@@ -10,7 +10,6 @@ const Contact = () => {
   const theme = useContext(ThemeContext);
   const darkMode = theme.state.darkMode;
 
-  // State variables
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
@@ -203,7 +202,7 @@ const Contact = () => {
       >
         Find an issue with this page?{" "}
         <a
-          href="https://github.com"
+          href="https://github.com/Ayushsharma707/AyushPortfolio"
           target="_blank"
           rel="noopener noreferrer"
           className="ml-1 text-indigo-500 underline hover:text-indigo-700"
@@ -222,7 +221,6 @@ const Contact = () => {
         Made by Ayush Sharma
       </div>
 
-      {/* Add this here */}
 
     </div>
   );
